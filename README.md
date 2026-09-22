@@ -271,10 +271,6 @@ Collaborative GitHub project contribution focused on frontend improvements and r
 
 ---
 
----
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -298,6 +294,7 @@ Collaborative GitHub project contribution focused on frontend improvements and r
 <img src="./profile/trophy.svg" width="100%" alt="GitHub Trophies"/>
 
 </div>
+
 ---
 
 ## Contribution Snake
@@ -307,6 +304,7 @@ Collaborative GitHub project contribution focused on frontend improvements and r
 <img src="https://raw.githubusercontent.com/prabhhhuu/prabhhhuu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
+
 ---
 
 ## Current Focus
