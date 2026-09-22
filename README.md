@@ -271,21 +271,19 @@ Collaborative GitHub project contribution focused on frontend improvements and r
 
 ---
 
+---
+
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prabhhhuu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C9D1D9&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prabhhhuu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C9D1D9&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhhhuu&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=prabhhhuu&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" width="48%"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhhhuu&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhhhuu&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" width="48%"/>
 
 </div>
 
@@ -295,7 +293,7 @@ Collaborative GitHub project contribution focused on frontend improvements and r
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prabhhhuu&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=prabhhhuu&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
 
 </div>
 
@@ -318,7 +316,6 @@ Collaborative GitHub project contribution focused on frontend improvements and r
 <img src="https://raw.githubusercontent.com/prabhhhuu/prabhhhuu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
-
 ---
 
 ## Current Focus
