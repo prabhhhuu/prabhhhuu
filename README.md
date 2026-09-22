@@ -275,21 +275,27 @@ Collaborative GitHub project contribution focused on frontend improvements and r
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=prabhhhuu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-  alt="GitHub Stats"
-/>
+<img src="./profile/stats.svg" width="48%" alt="GitHub Stats"/>
+
+<img src="./profile/streak.svg" width="48%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhhhuu&layout=compact&hide_border=true&theme=transparent"
-  alt="Top Languages"
-/>
+<img src="./profile/top-langs.svg" width="48%" alt="Top Languages"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="./profile/trophy.svg" width="100%" alt="GitHub Trophies"/>
 
 </div>
 ---
