@@ -40,7 +40,7 @@ I am a **BCA graduate and MERN Stack Developer** focused on building responsive,
 
 My primary strength is frontend development, with hands-on experience building reusable React interfaces, responsive layouts, state-driven applications, API integrations, and deploying applications using **Vercel and Railway**.
 
-I also have exposure to **Python, FastAPI, Flask, LangChain, and Generative AI**, including building an AI chatbot with conversational memory and contributing to UI and API-integration work.
+I also work with **Python, FastAPI, Flask, LangChain and Generative AI** — most recently on a full-stack internship where I loaded 27,000+ IDSP and WHO surveillance records into Pinecone so the system could answer outbreak questions with context, and a Generative AI internship building a LangChain chatbot on Gemini and ChromaDB.
 
 I approach development with a practical engineering mindset: understand the requirement, build maintainable components, integrate APIs, test the application, debug issues, and maintain a clean codebase.
 
@@ -115,8 +115,8 @@ I approach development with a practical engineering mindset: understand the requ
 | **Generative AI** | Practical | Built an AI chatbot during a Generative AI internship |
 | **LangChain** | Practical | Implemented conversational memory for an AI chatbot |
 | **AI Application Integration** | Practical | Contributed to UI and API-integration work for AI applications |
-| **Python** | Practical | Built a Python-based website vulnerability scanner |
-| **Web Data Collection** | Practical | Automated data collection through web scraping |
+| **Retrieval-Augmented Generation** | Practical | Indexed 27,000+ IDSP and WHO surveillance records in Pinecone with per-source namespaces |
+| **Python** | Practical | Built a Flask + Groq AI tutor and a LangChain chatbot prototype |
 | **FastAPI / Flask** | Exposure | Backend frameworks used for Python-based development |
 
 ---
@@ -199,28 +199,31 @@ A responsive storefront built with HTML5, CSS3, and JavaScript featuring live se
 
 ## Experience
 
-### Python Programming & Development Intern
+### Full Stack Engineer Intern
 
-**Innovate Intern**  
-*October 2024*
+**Asvix**  
+*September 2026 – November 2026*  
+*Chennai, Tamil Nadu*
 
-- Built a Python-based website vulnerability scanner.
-- Automated data collection using web scraping.
-- Applied Python programming concepts to practical development tasks.
+- Loaded and organised 27,000+ normalised surveillance records from IDSP and WHO sources into Pinecone so the system could give context-aware answers on disease outbreaks.
+- Split IDSP and WHO data into two separate Pinecone namespaces to prevent data mixing across sources.
+- Worked around Pinecone's 40 KB metadata limit by storing report excerpts and fetching the full content on demand, which let large reports load reliably.
+- Tested the APIs with 33 checks (27 offline tests and 6 live checks), covering response accuracy, data consistency and error handling.
 
-**Skills:** `Python` `Web Scraping` `Automation` `Web Development`
+**Skills:** `Pinecone` `RAG` `API Testing` `Data Engineering`
 
 ### Generative AI Intern
 
 **Sinthan AI Academy**  
-*June 2025 – July 2025*
+*June 2025 – July 2025*  
+*Chennai, Tamil Nadu*
 
-- Built an AI chatbot using LangChain.
-- Implemented conversational memory.
-- Contributed to UI design and API integration.
-- Worked on AI application and frontend integration requirements.
+- Built a multi-service prototype AI chatbot with Python, LangChain, Flask and Next.js, working under a senior developer's guidance.
+- Connected the Google Gemini API to generate natural conversational replies.
+- Stored documents in ChromaDB Cloud and used retrieval to give context-aware answers.
+- Handled API integration and debugging to make the prototype more dependable.
 
-**Skills:** `Python` `LangChain` `Generative AI` `UI Design` `API Integration`
+**Skills:** `Python` `LangChain` `Generative AI` `Flask` `Next.js` `ChromaDB` `Gemini API`
 
 ---
 
@@ -248,7 +251,7 @@ Collaborative GitHub project contribution focused on frontend improvements and r
 | **BCA Graduate** | Bachelor of Computer Applications, SRM Institute of Science and Technology |
 | **Academic Performance** | Graduated with a CGPA of 7.58 |
 | **Higher Secondary** | Achieved 87% in Higher Secondary Education |
-| **Internship Experience** | Completed Python Development and Generative AI internships |
+| **Internship Experience** | Completed Full Stack Engineering and Generative AI internships |
 | **Open-Source Contribution** | Contributed frontend and repository-hygiene improvements to a collaborative GitHub project |
 
 </div>
@@ -256,10 +259,6 @@ Collaborative GitHub project contribution focused on frontend improvements and r
 ---
 
 ## Certifications
-
-### Innovate Intern
-
-[![Python Programming](https://img.shields.io/badge/Python_Programming-6D28D9?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ### Sinthan AI Academy
 
@@ -316,12 +315,14 @@ Learning:
   - REST API Architecture
   - Generative AI
   - LangChain
+  - Retrieval-Augmented Generation
 
 Building:
   - Responsive React Applications
   - MERN Stack Projects
   - API-Integrated Web Applications
   - AI-Enabled Applications
+  - RAG-Backed Applications
 
 Exploring:
   - AI Application Development
@@ -353,6 +354,10 @@ Open To:
 
 <a href="https://github.com/prabhhhuu">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://personal-portfolio-nine-mu-51.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
